@@ -1,0 +1,2 @@
+# The-shell-game---help-wanted
+ I want to hear if there someone in this community, who wants to take their time to help me out. I'm stuck with a game I'm making in processing. You probably know it as the shell game. I'm stuck when I should make them switch place with a nice and smooth curve and I have trouble to hide my coin. I'm open for any ideas you guys may have :-)  Your help is really appreciated. 
